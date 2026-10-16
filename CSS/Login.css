@@ -143,3 +143,9 @@ input[type="reset"]:hover{
 .enlace a:hover{
 	text-decoration: underline;
 }
+@media screen and(max-width: 800px){
+    .Menu__list{
+        font-size: 20px;
+        padding: 25px; 
+    }
+}
